@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=marcosst17.marcosst17)
 
 </p>
-<div size='20px'> Hi! My name is Marcos Stricker. Thank You for taking the time to view my GitHub Profile !
+<div size='20px'> Hi! My name is Marcos Stricker. Thank you for taking the time to view my GitHub Profile!
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px" align="right"></h2>
